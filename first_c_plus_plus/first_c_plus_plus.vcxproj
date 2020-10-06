@@ -126,6 +126,9 @@
     <ClCompile Include="01_helloworld.cpp" />
     <ClCompile Include="02_变量.cpp" />
     <ClCompile Include="03_常量.cpp" />
+    <ClCompile Include="04_sizeof.cpp" />
+    <ClCompile Include="05_实型.cpp" />
+    <ClCompile Include="06_字符型.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

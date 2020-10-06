@@ -24,5 +24,14 @@
     <ClCompile Include="03_常量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04_sizeof.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05_实型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06_字符型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
