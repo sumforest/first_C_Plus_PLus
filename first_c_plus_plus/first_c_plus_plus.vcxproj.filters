@@ -33,5 +33,17 @@
     <ClCompile Include="06_字符型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="07_转义字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08_字符串类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09_布尔类型.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10_获取键盘输入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
