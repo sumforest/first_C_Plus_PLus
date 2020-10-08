@@ -45,5 +45,17 @@
     <ClCompile Include="10_获取键盘输入.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="11_取模运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12_递增运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_选择结构-if单行语句.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_选择结构-if多行语句cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

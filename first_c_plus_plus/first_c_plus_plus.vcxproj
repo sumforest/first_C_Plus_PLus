@@ -133,6 +133,10 @@
     <ClCompile Include="08_字符串类型.cpp" />
     <ClCompile Include="09_布尔类型.cpp" />
     <ClCompile Include="10_获取键盘输入.cpp" />
+    <ClCompile Include="11_取模运算符.cpp" />
+    <ClCompile Include="12_递增运算符.cpp" />
+    <ClCompile Include="13_选择结构-if单行语句.cpp" />
+    <ClCompile Include="14_选择结构-if多行语句cpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
