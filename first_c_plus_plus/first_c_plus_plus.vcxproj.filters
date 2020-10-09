@@ -57,5 +57,17 @@
     <ClCompile Include="14_选择结构-if多行语句cpp.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="15_if选择结构练习_三只小猪称体重.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_三目运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_while循环结构_猜数字游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_do-while循环结构_水仙花数练习.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
