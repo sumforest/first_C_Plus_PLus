@@ -69,5 +69,23 @@
     <ClCompile Include="18_do-while循环结构_水仙花数练习.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19_嵌套for循环练习：打印九九乘法表cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20_跳转语句-goto.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_数组名的作用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22_数组元素逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_冒泡排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_二维数组的定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -141,6 +141,12 @@
     <ClCompile Include="16_三目运算符.cpp" />
     <ClCompile Include="17_while循环结构_猜数字游戏.cpp" />
     <ClCompile Include="18_do-while循环结构_水仙花数练习.cpp" />
+    <ClCompile Include="19_嵌套for循环练习：打印九九乘法表cpp.cpp" />
+    <ClCompile Include="20_跳转语句-goto.cpp" />
+    <ClCompile Include="21_数组名的作用.cpp" />
+    <ClCompile Include="22_数组元素逆置.cpp" />
+    <ClCompile Include="23_冒泡排序.cpp" />
+    <ClCompile Include="24_二维数组的定义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
