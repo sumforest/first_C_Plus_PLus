@@ -147,6 +147,16 @@
     <ClCompile Include="22_数组元素逆置.cpp" />
     <ClCompile Include="23_冒泡排序.cpp" />
     <ClCompile Include="24_二维数组的定义.cpp" />
+    <ClCompile Include="25_二维数组名称的作用.cpp" />
+    <ClCompile Include="26_函数的定义.cpp" />
+    <ClCompile Include="27_函数_值传递.cpp" />
+    <ClCompile Include="28_函数的声明.cpp" />
+    <ClCompile Include="29_分文件编写函数.cpp" />
+    <ClCompile Include="30_指针.cpp" />
+    <ClCompile Include="swap.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="swap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

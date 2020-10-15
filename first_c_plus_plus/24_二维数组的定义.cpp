@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main24()
 {
 	// 定义方式1
 	/*int arr[2][3];
