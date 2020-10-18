@@ -153,6 +153,17 @@
     <ClCompile Include="28_函数的声明.cpp" />
     <ClCompile Include="29_分文件编写函数.cpp" />
     <ClCompile Include="30_指针.cpp" />
+    <ClCompile Include="31_空指针.cpp" />
+    <ClCompile Include="32_constant指针修饰.cpp" />
+    <ClCompile Include="33_指针和数组.cpp" />
+    <ClCompile Include="34_指针实现地址传递.cpp" />
+    <ClCompile Include="35_使用指针传递数组封装冒泡排序.cpp" />
+    <ClCompile Include="36_结构体.cpp" />
+    <ClCompile Include="37_结构体指针.cpp" />
+    <ClCompile Include="38_嵌套结构体.cpp" />
+    <ClCompile Include="39_结构体值传递和地址传递.cpp" />
+    <ClCompile Include="40_结构体案例1.cpp" />
+    <ClCompile Include="41_结构体案例2.cpp" />
     <ClCompile Include="swap.cpp" />
   </ItemGroup>
   <ItemGroup>

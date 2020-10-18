@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main()
+int main30()
 {
 	int a = 10;
 	// ∂®“Â÷∏’Î
