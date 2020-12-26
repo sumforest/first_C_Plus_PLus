@@ -1,0 +1,3 @@
+date:1 interval:1 stuId:1 name:asd computerRoomNo:1 state:2
+date:1 interval:1 stuId:1 name:asd computerRoomNo:1 state:0
+date:3 interval:2 stuId:3 name:haha computerRoomNo:2 state:-1

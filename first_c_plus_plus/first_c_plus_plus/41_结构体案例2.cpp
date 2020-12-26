@@ -36,7 +36,7 @@ void printHero(Hero arr[], int len)
 }
 
 
-int main()
+int main41()
 {
 	Hero heroes[] =
 	{
